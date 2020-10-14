@@ -1,0 +1,8 @@
+style: is-light
+height: is-medium
+items:
+  - title: Feature-Packed
+    subtitle: See the features that other bots don't have.
+    icon: fa-clipboard-check
+    call_to_action_name: Check it out
+    call_to_action_link: /features/index.html
