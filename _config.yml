@@ -2,3 +2,14 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 title: Ally - The Friendly Discord Bot
 permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values: 
+      toc: true
