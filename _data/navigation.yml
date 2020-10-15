@@ -5,4 +5,8 @@
 - name: About
   link: /about/
 - name: Support
-  link: https://github.com/allydiscord/ally/issues
+  dropdown:
+    - name: FAQ
+      link: /faq/
+    - name: Issues
+      link: https://github.com/allydiscord/ally/issues/
