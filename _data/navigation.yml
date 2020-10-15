@@ -1,0 +1,8 @@
+- name: Blog
+  link: /blog/index.html
+- name: Documentation
+  link: /docs/index.html
+  dropdown:
+    - name: Test
+- name: Support
+  link: https://github.com/allydiscord/ally/issues
