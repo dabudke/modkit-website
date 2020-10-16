@@ -6,7 +6,11 @@ callouts: callouts_landing_page
 hero_size: is_large
 ---
 
-## What is Ally
+## What is Ally?
 
-Ally is a Discord bot, written in Discord.JS and is ready to server you and
+Ally is a Discord bot, written in Discord.JS and is ready to serve you and
 your community!
+
+## Who is Ally?
+
+Ally itself is a friendly Discord bot,
