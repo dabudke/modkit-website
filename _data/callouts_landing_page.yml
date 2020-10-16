@@ -1,8 +1,21 @@
 style: is-light
 height: is-medium
 items:
-  - title: Feature-Packed
-    subtitle: See the features that other bots don't have.
-    icon: fa-clipboard-check
-    call_to_action_name: Check it out
-    call_to_action_link: /features/index.html
+
+  - title: Friendly
+    subtitle: Friendly interactions, not sterile.
+    icon: fa-grin-beam
+    call_to_action_name: See some sample interactions
+    call_to_action_link: /why-ally/#friendly
+
+  - title: Feature-packed
+    subtitle: See the features that other Discord bots just don't have
+    icon: fa-tasks
+    call_to_action_name: See the features
+    call_to_action_link: /why-ally/#features
+
+  - title: Open-Source
+    subtitle: Need something that Ally doesn't have?  Contribute it!
+    icon: fa-pen
+    call_to_action_name: View the source
+    call_to_action_link: https://github.com/allydiscord/ally
