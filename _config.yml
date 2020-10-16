@@ -3,13 +3,15 @@ remote_theme: chrisrhymes/bulma-clean-theme
 title: Ally - The Friendly Discord Bot
 permalink: pretty
 
+exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
+
 paginate: 5
 paginate_path: "/blog/page:num"
 
 defaults:
-  - 
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: "_posts"
     values: 
+      layout: post
       toc: true
+      toc_name: Sections
