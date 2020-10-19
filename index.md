@@ -4,14 +4,38 @@ title: Need a Discord bot for your server?
 subtitle: See why Ally is right for you.
 callouts: callouts_landing_page
 hero_size: is_large
+hero_link: https://discord.com
+hero_link_text: Invite Ally to your server
 permalink: /
 ---
 
-## What is Ally?
+## Friendly
 
-Ally is a Discord bot, written in Discord.JS and is ready to serve you and
-your community!
+Ally is friendly, not sterile.  With warm and welcoming interactions, Ally is
+sure to make your server more homely.
 
-## Who is Ally?
+## Feature-Packed
 
-Ally itself is a friendly Discord bot,
+Ally has features that other bots don't have.
+
+| Feature   | Ally        | TypicalBot | Dyno | Mee6 |
+| --------- | ----------- | ---------- | ---- | ---- |
+| something | yes         | no         | no   | no   |
+
+## Advantages of Open-Source
+
+Ally is open source, so you can see exactly what needs to be done, and request
+features to be added!  Or, you could contribute them yourself by adding to the
+code.
+
+### Issues
+
+By creating issues, you can track bugs and request features to be added, so
+your server will be customized to your heart's content.
+
+### Pull Requests
+
+Pull requests are like asking to add your code to what is served to users
+through the bot, so you can contribute the things you want and have them
+released to other users.  Contributing also helps out the team, by lessening
+the load for them.
