@@ -2,6 +2,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 title: Ally - The Friendly Discord Bot
 permalink: pretty
+footer_menu: footer
 
 exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 
@@ -9,10 +10,6 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 defaults:
-  - scope:
-      path: ""
-    values:
-      footer_menu: footer_default
   - scope:
       path: "_posts"
     values: 
