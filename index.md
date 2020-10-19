@@ -4,6 +4,7 @@ title: Need a Discord bot for your server?
 subtitle: See why Ally is right for you.
 callouts: callouts_landing_page
 hero_size: is_large
+permalink: /
 ---
 
 ## What is Ally?
