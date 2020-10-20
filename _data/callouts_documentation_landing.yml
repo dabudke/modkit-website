@@ -3,7 +3,7 @@ height: is-medium
 items:
 
   - title: Commands
-    subtitle: Use Ally's actions
+    subtitle: Perform actions with Ally
     icon: fa-terminal
     call_to_action_name: Check the reference
     call_to_action_link: /docs/commands/
