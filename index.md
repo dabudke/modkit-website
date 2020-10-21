@@ -4,7 +4,7 @@ title: Need a Discord bot for your server?
 subtitle: See why Ally is right for you.
 callouts: callouts_landing_page
 hero_size: is_large
-hero_link: https://discord.com
+hero_link: https://discord.com/oauth2/authorize?scope=bot&client_id=643094405514919956&permissions=468741718
 hero_link_text: Invite Ally to your server
 permalink: /
 ---
@@ -14,13 +14,17 @@ permalink: /
 Ally is friendly, not sterile.  With warm and welcoming interactions, Ally is
 sure to make your server more homely.
 
+---
+
 ## Feature-Packed
 
 Ally has features that other bots don't have.
 
-| Feature   | Ally        | TypicalBot | Dyno | Mee6 |
-| --------- | ----------- | ---------- | ---- | ---- |
-| something | yes         | no         | no   | no   |
+| Feature       | Ally  | TypicalBot | Dyno | Mee6 |
+| ------------- | ----- | ---------- | ---- | ---- |
+| User Settings | yes   | no         | no   | no   |
+
+---
 
 ## Advantages of Open-Source
 
