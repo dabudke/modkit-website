@@ -6,16 +6,16 @@ items:
     subtitle: Friendly interactions, not sterile.
     icon: fa-grin-beam
     call_to_action_name: See some sample interactions
-    call_to_action_link: /why-ally/#friendly
+    call_to_action_link: ./#friendly
 
   - title: Feature-packed
     subtitle: See the features that other Discord bots just don't have
     icon: fa-tasks
     call_to_action_name: See the features
-    call_to_action_link: /why-ally/#features
+    call_to_action_link: ./#feature-packed
 
   - title: Open-Source
     subtitle: Need something that Ally doesn't have?  Contribute it!
     icon: fa-pen
-    call_to_action_name: View the source
-    call_to_action_link: https://github.com/allydiscord/ally
+    call_to_action_name: See the advantages
+    call_to_action_link: ./#advantages-of-open-source
