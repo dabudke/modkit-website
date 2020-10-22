@@ -23,7 +23,8 @@ Ally has features that other bots don't have.
 | Feature       | Ally  | TypicalBot | Dyno | Mee6 |
 | ------------- | ----- | ---------- | ---- | ---- |
 | User Settings | yes   | no         | no   | no   |
-
+| Say command   | yes   | no         | no   | no   |
+| Open Source   | yes   | yes        | no   | no   |
 ---
 
 ## Advantages of Open-Source
