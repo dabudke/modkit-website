@@ -18,13 +18,16 @@ sure to make your server more homely.
 
 ## Feature-Packed
 
-Ally has features that other bots don't have.
+Here's some features that we think will help you choose Ally to moderate your
+server:
 
-| Feature       | Ally  | TypicalBot | Dyno | Mee6 |
-| ------------- | ----- | ---------- | ---- | ---- |
-| User Settings | yes   | no         | no   | no   |
-| Say command   | yes   | no         | no   | no   |
-| Open Source   | yes   | yes        | no   | no   |
+* Say command
+* Announcements
+* Moderation System
+
+And more.  You can [check the docs](./docs) for more features that will help
+you choose the right Discord bot for your server.
+
 ---
 
 ## Advantages of Open-Source
