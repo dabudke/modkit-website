@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New Website, new beginnings
-show_sidebar: true
 image: /assets/new-website.png
 hero_image: /assets/new-website.png
 hero_darken: true
