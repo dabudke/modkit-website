@@ -1,12 +1,13 @@
 ---
 layout: post
 title: New Website, new beginnings
+show_sidebar: true
 image: /assets/new-website.png
 hero_image: /assets/new-website.png
 hero_darken: true
 author: LittleKitacho
 category: website
-tags: [ website, docs, 1.0.0-pre1]
+tags: [ website, docs, release-1.0.0-pre1 ]
 ---
 
 If you ask why the website has a fresh look, look below the footer.
