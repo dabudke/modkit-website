@@ -18,4 +18,4 @@ items:
     subtitle: Run your own instance
     icon: fa-server
     call_to_action_name: See how it's done
-    call_to_action_link: /docs/self-host/
+    call_to_action_link: /docs/selfhost/
