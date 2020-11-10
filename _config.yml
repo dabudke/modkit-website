@@ -10,7 +10,10 @@ exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.
 defaults:
   - scope:
       path: "_posts"
-    values: 
+    values:
       layout: post
-      toc: true
-      toc_name: Sections
+  - scope:
+      path: ""
+      type: posts
+    values: 
+      show_sidebar: true

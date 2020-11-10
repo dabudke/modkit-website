@@ -1,7 +1,8 @@
 ---
 layout: page
+permalink: /docs/commands/
 title: Commands
-toc: true
+menubar: menubar_commands_index
 ---
 
 ## Utility Commands

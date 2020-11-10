@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About Ally
 permalink: /about/
+title: About Ally
 ---
