@@ -1,12 +1,12 @@
 ---
 layout: page
+permalink: /
 title: Need a Discord bot for your server?
 subtitle: See why Ally is right for you.
 callouts: callouts_landing_page
 hero_size: is_large
 hero_link: https://discord.com/oauth2/authorize?scope=bot&client_id=643094405514919956&permissions=468741718
 hero_link_text: Invite Ally to your server
-permalink: /
 ---
 
 ## Friendly
