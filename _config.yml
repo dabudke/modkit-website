@@ -4,6 +4,7 @@ permalink: /blog/:categories/:year/:month/:day/:title/
 footer_menu: footer
 paginate: 5
 paginate_path: "/blog/page:num"
+fixed_navbar: top
 
 exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 
