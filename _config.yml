@@ -1,6 +1,6 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-title: Ally - The Friendly Discord Bot
-permalink: /blog/:categories/:year/:month/:day/:title/
+title: Ally - The Discord Bot
+permalink: /blog/:year/:month/:day/:title/
 footer_menu: footer
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -13,8 +13,4 @@ defaults:
       path: "_posts"
     values:
       layout: post
-  - scope:
-      path: ""
-      type: posts
-    values: 
       show_sidebar: true
