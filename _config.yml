@@ -3,8 +3,7 @@ title: Ally - The Discord Bot
 permalink: /blog/:year/:month/:day/:title/
 footer_menu: footer
 paginate: 5
-paginate_path: "/blog/page:num"
-fixed_navbar: top
+paginate_path: /blog/page:num
 
 exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 

@@ -3,15 +3,14 @@ layout: page
 title: Welcome to the docs!
 subtitle: What would you like to know about?
 callouts: callouts_documentation_landing
+hero_height: is-medium
 permalink: /docs/
 ---
 
-These docs will cover all you need to know about setting up Ally to serve your
-server.  The docs are split into different categories, which you can choose
-below:
+This documentation serves as a knowledge base for setting up servers, or your
+own instance of Ally.  Above are the sections that you will probably want to
+check out here, but below are some external links that aren't in the
+documentation.
 
-* **[Commands](./commands/)** - Commands to moderate your community or have
-fun with the bot.
-* **[Settings](./settings/)** - Settings to configure how Ally works on your
-server.
-* **[Self-Hosting](./selfhost/)** - How to set up a custom instance of Ally.
+* [Trello Board (rewrite)](https://trello.com/b/cjyoYOiC)
+* [Roadmap Trello Board](https://trello.com/b/A3aDVloX)
