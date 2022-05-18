@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About Ally
+title: About ModKit
 permalink: /about/
 ---

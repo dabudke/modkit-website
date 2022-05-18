@@ -1,8 +1,18 @@
 ---
 ---
-$primary: #7f7fff;
-$info: #4F4FFF;
-$link: $info;
-$code: #00b0b0;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+$family-sans-serif: Poppins, sans-serif;
+$red: #FF355D;
+$orange: #FF470F;
+$yellow: #FFCD44;
+$green: #3DFF6E;
+$turquoise: #00D1B2;
+$cyan: #1395FF;
+$blue: #0066ff;
+$purple: #AC54FF;
+
+$primary: $blue;
+$info: darken($blue,8%);
 
 @import "main";

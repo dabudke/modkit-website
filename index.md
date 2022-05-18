@@ -1,49 +1,20 @@
 ---
 layout: page
-title: Need a Discord bot for your server?
-subtitle: See why Ally is right for you.
+title: ModKit - The Moderator's Toolkit
+subtitle: The perfect balance of features and bloat
 callouts: callouts_landing_page
 hero_size: is_large
-hero_link: https://discord.com/oauth2/authorize?scope=bot&client_id=643094405514919956&permissions=468741718
-hero_link_text: Invite Ally to your server
+hero_link: https://discord.com/api/oauth2/authorize?client_id=893279650485239829&permissions=8&scope=bot%20applications.commands
+hero_link_text: Add ModKit to your Server
 permalink: /
 ---
 
-## Friendly
+## Why ModKit?
 
-Ally is friendly, not sterile.  With warm and welcoming interactions, Ally is
-sure to make your server more homely.
+ModKit is a Discord bot that provides the perfect balance of functionality and
+bloat.  Most Discord bots have features upon features, and a lot of those
+features are already built-in to Discord and remove space for creativity.
 
----
-
-## Feature-Packed
-
-Here's some features that we think will help you choose Ally to moderate your
-server:
-
-* Say command
-* Announcements
-* Moderation System
-
-And more.  You can [check the docs](./docs) for more features that will help
-you choose the right Discord bot for your server.
-
----
-
-## Advantages of Open-Source
-
-Ally is open source, so you can see exactly what needs to be done, and request
-features to be added!  Or, you could contribute them yourself by adding to the
-code.
-
-### Issues
-
-By creating issues, you can track bugs and request features to be added, so
-your server will be customized to your heart's content.
-
-### Pull Requests
-
-Pull requests are like asking to add your code to what is served to users
-through the bot, so you can contribute the things you want and have them
-released to other users.  Contributing also helps out the team, by lessening
-the load for them.
+ModKit is different.  Built from the ground up to use Discord's latest
+features and not reworked to implement them.  Completely open-source, written
+in TypeScript with Discord.JS, and always getting updated.
